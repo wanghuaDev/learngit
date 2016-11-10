@@ -3,7 +3,7 @@ Git is free software.
 hello git
 this is a great create.
 git check change.
-this is a bug
+this is a none bug branch
 sdusdhsdhhsdjhksd
 “这是一个教程”
 create a new branch is feasturel
